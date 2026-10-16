@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
-  "download_url": "https://github.com/Kennarttechl/laundry_ediben_exe/releases/download/v1.0.1/EdibenLaundry_Setup_1.0.1.exe",
-  "sha256": "sha256:3aa02fc7dcead736db70b9f8f33dd4f3d350bb496c2263244157dcc1d516b293",
-  "changelog": "Add new branch id"
+  "download_url": "https://github.com/Kennarttechl/laundry_ediben_exe/releases/download/v1.0.3/EdibenLaundry_Setup_1.0.3.exe",
+  "sha256": "sha256:0f9cd0563c823761ec0747a8ce2e1de55cc8059961f11b8ab36238f8c4840f44",
+  "changelog": "Added new branch ID, bug fixes and improvements"
 }
